@@ -1,5 +1,5 @@
 import { useSelector } from 'react-redux';
-import categorySlice from '../../store/slices/categorySlice/categorySlice';
+import categorySlice from '../../store/slices/categorySlice';
 import './_cat-nav.scss';
 
 const CatNav = ()=>{
